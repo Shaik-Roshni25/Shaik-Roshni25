@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shaik-Roshni25
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning Mern stack and exploring cloud technologies 
+- 💞️ I’m looking to collaborate on Web applications, coding projects and hackathons
+- 📫 How to reach me ✉️Email: roshnishaik474@gmail.com LinkedIn
+- 😄 Pronouns: she
+- ⚡ Fun fact: I love participating in hackathons and learning new tech!
